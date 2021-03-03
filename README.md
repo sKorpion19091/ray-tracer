@@ -24,7 +24,7 @@ The components of this project consists of a 3D Vector class, Ray class and some
 which we then use to create a gradient image.
 
 <div align="center">
-![Gradient Image](/res/image.ppm)
+    <img src="https://github.com/sKorpion19091/ray-tracer/res/image.ppm"/>
 </div>
 
 I tried to make the implementations as effiecent as possible through the use of some c++11 features such
