@@ -29,3 +29,23 @@ which we then use to create a gradient image.
 
 I tried to make the implementations as effiecent as possible through the use of some c++11 features such
 as constexpr and noexcept etc.
+
+## How does it work?
+
+1. Compile and run
+
+```bash
+make
+```
+
+2. Open Image after compile and run
+
+```bash
+make open-image
+```
+
+3. Compile, run and open image
+
+```bash
+make create-image
+```
